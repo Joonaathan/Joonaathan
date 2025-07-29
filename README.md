@@ -85,8 +85,8 @@ Sou apaixonado por tecnologia e estou construindo minha jornada como desenvolved
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joonaathan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
- 
-  ![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=Joonaathan.Joonaathan) 
+
+ <br><br>![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=Joonaathan.Joonaathan) 
 </p>
 
 <picture>
